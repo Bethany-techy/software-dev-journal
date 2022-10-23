@@ -1,0 +1,5 @@
+To implement user needs into a program, start off by getting as many details about what it is they are looking for as possible. Then go over any other information that they didn't’ mention and create the user story. The user story will be able to take the wants and needs of the clients and then identify how those needs can be met. Also, how important as well as if these tasks are feasible.  
+
+Some of the ways to approach developing programs is by meeting with the teams and understanding their feasibility. I would like to incorporate many of the agile processes in my future development. The one are daily scrum meetings and sprints. I really have taken to the Scrum approach regarding working on projects, it makes it that much easier to work on.  
+
+To be a good team member is to be respectful, a good listener, and always available. Working to the best that you can, it's about being perfect but about being able to work well with others. To recognize that you are a part of a team and to also have some bits of trust so approaching other team members isn’t off putting. ` 
